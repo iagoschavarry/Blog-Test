@@ -1,3 +1,3 @@
 layout: My Blog
 title: "My Blog"
-permalink: /
+permalink: /Blog-Test/
